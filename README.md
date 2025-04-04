@@ -5,7 +5,7 @@
 This project implements a database schema for a content management platform designed to handle articles, user interactions (comments, reactions), and views efficiently. The schema ensures data consistency, integrity, and optimized retrieval using PostgreSQL.
 
 ### Author:
-- **Gaganpreet Singh** (2023UCD2120)
+- **Gaganpreet Singh**
 
 ---
 
